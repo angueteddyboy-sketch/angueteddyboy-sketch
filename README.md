@@ -1,4 +1,4 @@
-![test](https://github-readme-stats.vercel.app/api?username=torvalds)
+
 
 <h1 align="center">Hi 👋, I'm Teddy</h1>
 <h3 align="center">Student | Future Developer | Learning Programming</h3>
