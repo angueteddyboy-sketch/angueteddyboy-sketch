@@ -31,7 +31,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=angueteddyboy-sketch&theme=tokyonight" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🌐 Connect with me
 
 - 💼 LinkedIn: your-link
-- 📧 Email: your-email@example.com
+- 📧 Email:angueteddyboy@gmail.com
 
 ---
 
