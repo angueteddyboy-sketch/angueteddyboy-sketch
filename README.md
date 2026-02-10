@@ -12,30 +12,6 @@
 <td>Teddy</td>
 </tr>
 
-<tr>
-<td>Course</td>
-<td>Programming</td>
-</tr>
-</table>
-
-<!-- RIGHT TABLE -->
-<table>
-<tr>
-<th>Right Table</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td>Skill</td>
-<td>HTML</td>
-</tr>
-
-<tr>
-<td>Level</td>
-<td>Beginner</td>
-</tr>
-</table>
-
 </div>
 
 
