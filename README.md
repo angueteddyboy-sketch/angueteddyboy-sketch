@@ -17,7 +17,15 @@
 - 📚 Always improving my coding skills
 
 ---
+## 📱 Connect with Me
 
+| Platform      | Link |
+|---------------|------|
+| **LinkedIn**  | [linkedin.com/in/YourProfile]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/teddy-boy-angue-66a0863b0/) |
+| **Twitter**   | [twitter.com/YourHandle](https://twitter.com/YourHandle) |
+| **Facebook**  | [facebook.com/YourProfile](https://www.facebook.com/YourProfile) |
+| **Instagram** | [instagram.com/YourHandle](https://instagram.com/YourHandle) |
+---
 ## 🛠️ Skills
 
 <p>
