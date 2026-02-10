@@ -35,7 +35,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=angueteddyboy-sketch&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=angueteddyboy-sketch&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
