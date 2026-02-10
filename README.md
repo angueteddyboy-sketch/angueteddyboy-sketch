@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Teddy)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=👋WelcometoMyGitHub!;I+am+Teddy)
 
 
 <h3 align="center">Student | Future Developer | Learning Programming</h3>
