@@ -27,7 +27,7 @@
 <a href="https://twitter.com/YourHandle" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 </a>
-<a href="https://facebook.com/YourProfile](https://www.facebook.com/teddyboyangue/" target="_blank">
+<a href="https://www.facebook.com/teddyboyangue/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
 </a>
 <a href="https://instagram.com/YourHandle" target="_blank">
@@ -35,12 +35,13 @@
 </a>
 
 </div>
-## 🛠️ Skills
 
+## 🛠️ Skills
+<div align="center">
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,sql,github,vscode" />
 </p>
-
+</div>
 ---
 
 
