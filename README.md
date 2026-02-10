@@ -21,10 +21,18 @@
 
 ### 📱 Connect with Me
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>]([https://www.linkedin.com/in/teddy-boy-angue-66a0863b0/]) 
-[<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/YourHandle) 
-[<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://facebook.com/YourProfile) 
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>](https://instagram.com/YourHandle) 
+<a href="https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/teddy-boy-angue-66a0863b0/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/YourHandle" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+</a>
+<a href="https://facebook.com/YourProfile" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook.png"/>
+</a>
+<a href="https://instagram.com/YourHandle" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+</a>
 
 </div>
 ## 🛠️ Skills
