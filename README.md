@@ -1,4 +1,43 @@
-<h1 align="center">Hi 👋, I'm Teddy Boy V. Angue</h1>
+<div style="display: flex; gap: 20px;">
+
+<!-- LEFT TABLE -->
+<table>
+<tr>
+<th>Left Table</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Name</td>
+<td>Teddy</td>
+</tr>
+
+<tr>
+<td>Course</td>
+<td>Programming</td>
+</tr>
+</table>
+
+<!-- RIGHT TABLE -->
+<table>
+<tr>
+<th>Right Table</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Skill</td>
+<td>HTML</td>
+</tr>
+
+<tr>
+<td>Level</td>
+<td>Beginner</td>
+</tr>
+</table>
+
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angueteddyboy-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="angueteddyboy-sketch" /> </p>
 
