@@ -1,20 +1,49 @@
-<div style="display: flex; gap: 20px;">
+<h1 align="center">Hi 👋, I'm Teddy</h1>
+<h3 align="center">Student | Future Developer | Learning Programming</h3>
 
-<!-- LEFT TABLE -->
-<table>
-<tr>
-<th>Left Table</th>
-<th>Details</th>
-</tr>
+---
 
-<tr>
-<td>Name</td>
-<td>Teddy</td>
-</tr>
+## 🙋 About Me
 
-</div>
+- 🎓 Currently studying Computer Programming
+- 💻 Learning HTML, CSS, SQL, and Web Systems
+- 🚀 Interested in Open Source Technology
+- 📚 Always improving my coding skills
 
+---
 
+## 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sql,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: your-link
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ *"Always learning, always growing."*
 <footer>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angueteddyboy-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="angueteddyboy-sketch" /> </p>
 
