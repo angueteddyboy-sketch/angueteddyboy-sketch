@@ -1,8 +1,5 @@
-<div align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+Teddy)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Teddy+Angue;Student+Programmer;Future+Web+Developer;Always+Learning+New+Things+🚀" />
-
-</div>
 
 <h3 align="center">Student | Future Developer | Learning Programming</h3>
 
