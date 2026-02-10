@@ -1,70 +1,8 @@
+<div align="center">
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Write My Name</title>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Teddy+Angue;Student+Programmer;Future+Web+Developer;Always+Learning+New+Things+🚀" />
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding-top: 100px;
-        }
-
-        .container {
-            background: white;
-            width: 300px;
-            margin: auto;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
-        }
-
-        input {
-            padding: 10px;
-            width: 80%;
-            margin-bottom: 10px;
-        }
-
-        button {
-            padding: 10px 15px;
-            background-color: blue;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        #output {
-            margin-top: 20px;
-            font-size: 20px;
-            color: green;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="container">
-        <h2>Enter Your Name</h2>
-
-        <input type="text" id="nameInput" placeholder="Type your name here">
-        <br>
-        <button onclick="showName()">Show Name</button>
-
-        <div id="output"></div>
-    </div>
-
-<script>
-function showName() {
-    var name = document.getElementById("nameInput").value;
-    document.getElementById("output").innerHTML = "Hello, " + name + "!";
-}
-</script>
-
-</body>
-</html>
+</div>
 
 <h3 align="center">Student | Future Developer | Learning Programming</h3>
 
