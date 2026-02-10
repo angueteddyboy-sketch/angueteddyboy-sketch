@@ -17,15 +17,17 @@
 - 📚 Always improving my coding skills
 
 ---
-## 📱 Connect with Me
+<div align="center">
 
-| Platform      | Link |
-|---------------|------|
-| **LinkedIn**  | [linkedin.com/in/YourProfile]([https://www.linkedin.com/in/YourProfile](https://www.linkedin.com/in/teddy-boy-angue-66a0863b0/) |
-| **Twitter**   | [twitter.com/YourHandle](https://twitter.com/YourHandle) |
-| **Facebook**  | [facebook.com/YourProfile](https://www.facebook.com/YourProfile) |
-| **Instagram** | [instagram.com/YourHandle](https://instagram.com/YourHandle) |
----
+### 📱 Connect with Me
+
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>](https://github.com/YourUsername) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>](https://www.linkedin.com/in/YourProfile) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png"/>](https://twitter.com/YourHandle) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>](https://facebook.com/YourProfile) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>](https://instagram.com/YourHandle) 
+
+</div>
 ## 🛠️ Skills
 
 <p>
