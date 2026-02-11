@@ -18,6 +18,34 @@
 ---
 💼 Working Experience 
 
+## 📊 Project: Setup Tabulation for Mr. and Ms. Competition
+
+This project focuses on creating an efficient tabulation system for a **Mr. and Ms. Competition** using Microsoft Excel and network-based collaboration.
+
+### 🎯 Objectives
+- Create an automated tabulation sheet using Excel
+- Compute scores accurately and quickly
+- Minimize manual errors during judging
+- Enable real-time data sharing through network setup
+
+### 🛠️ Tools Used
+- Microsoft Excel (Formulas, Functions, Data Validation)
+- Local Network / Shared Drive
+- Computer Systems
+
+### ⚙️ Features
+- Automated score computation
+- Ranking system
+- Judge score entry sheets
+- Summary dashboard
+- Real-time updates via network sharing
+
+### 🚀 Skills Applied
+- Data organization and analysis
+- Spreadsheet automation
+- Network collaboration
+- Problem solving
+
 🌐 On -call Network Management
 - Assisting in basic network setup and configuration.
 - Troubleshooting internet connectivity and network-related issues.
@@ -40,6 +68,7 @@ PUP Maragondon Brach E-Clearance
 - Designed system for managing book listings, orders, and basic user interactions.
 - Currently No database Applied 
 --- 
+
 <div align="center">
 
 ### 📱 Connect with Me
