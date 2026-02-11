@@ -33,6 +33,11 @@
 PUP Maragondon Brach E-Clearance
 - Built responsive web pages using HTML and CSS.
 - Designed database structure using phpmyadmin
+  
+🖥️ Online Book Seller Application (Desktop Application)
+- Developed a desktop-based application using Visual Studio.
+- Designed system for managing book listings, orders, and basic user interactions.
+- Currently No database Applied 
 --- 
 <div align="center">
 
