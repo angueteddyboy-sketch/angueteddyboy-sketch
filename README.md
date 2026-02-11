@@ -1,24 +1,36 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="50%" valign="top">
+<!-- LEFT BOX -->
+<td width="48%" valign="top">
 
-<div>
+<div align="center" style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:5px;">
+  
+### 📦 About Me
 
-##                                                                                         
-
-
+- **Name:** Teddy Angue  
+- **Course:** [Your Course]  
+- **School:** STI College Rosario  
+- **Skills:** Python, HTML, CSS, Photoshop  
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<!-- SPACE -->
+<td width="4%"></td>
 
-<div>
+<!-- RIGHT BOX -->
+<td width="48%" valign="top">
 
-##                                                                                                         
+<div align="center" style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:5px;">
 
+### 🛠️ Projects
+
+- **Project Name:** Online Book Seller App  
+- **Description:** Desktop app built with VS Studio  
+- **Tools Used:** SQL, Python, VS Studio  
+- **Status:** Ongoing  
 
 </div>
 
