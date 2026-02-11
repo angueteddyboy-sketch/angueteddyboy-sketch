@@ -1,29 +1,23 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-## 📦 Left Box
+## 
 
 👉 Add your details here:
 
-- Name:
-- Course:
-- Skills:
-- Experience:
-
 </td>
 
-<td width="50%" valign="top">
+<td width="10%"></td> <!-- SPACE IN THE MIDDLE -->
 
-## 🛠️ Right Box
+<td width="45%" valign="top">
+
+## 
 
 👉 Add project info here:
 
-- Project Name:
-- Description:
-- Tools Used:
-- Status:
+
 
 </td>
 
