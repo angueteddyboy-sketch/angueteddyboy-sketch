@@ -1,23 +1,26 @@
-<table width="100%">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-## 
+<div>
 
-👉 Add your details here:
+## 📦
+
+
+
+</div>
 
 </td>
 
-<td width="4%"></td> <!-- SPACE IN THE MIDDLE -->
+<td width="50%" valign="top">
 
-<td width="48%" valign="top">
+<div>
 
 ## 
 
-👉 Add project info here:
 
-
+</div>
 
 </td>
 
