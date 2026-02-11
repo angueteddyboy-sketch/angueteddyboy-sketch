@@ -17,7 +17,7 @@
 - 📚 Always improving my coding skills
 ---
 💼 Working Experience
-- <img width="474" height="354" alt="image" src="https://github.com/user-attachments/assets/5f6b8052-82e1-4984-b07c-b9831b40e58e" />Smart Communications, Inc.
+
 ---
 <div align="center">
 
