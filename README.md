@@ -1,7 +1,8 @@
+<!--
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<!-- LEFT BOX -->
+<!-- LEFT BOX 
 <td width="48%" valign="top">
 
 <div align="center" style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:5px;">
@@ -17,10 +18,10 @@
 
 </td>
 
-<!-- SPACE -->
+<!-- SPACE 
 <td width="4%"></td>
 
-<!-- RIGHT BOX -->
+<!-- RIGHT BOX 
 <td width="48%" valign="top">
 
 <div align="center" style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:5px;">
@@ -38,6 +39,7 @@
 
 </tr>
 </table>
+-->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=Add8e6&center=true&vCenter=true&width=500&lines=Welcome!;To+My+Github;I+am+Teddy" />
