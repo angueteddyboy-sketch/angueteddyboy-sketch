@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="95%" valign="top">
 
 ## 
 
@@ -9,9 +9,9 @@
 
 </td>
 
-<td width="10%"></td> <!-- SPACE IN THE MIDDLE -->
+<td width="5%"></td> <!-- SPACE IN THE MIDDLE -->
 
-<td width="45%" valign="top">
+<td width="95%" valign="top">
 
 ## 
 
