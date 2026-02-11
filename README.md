@@ -16,9 +16,24 @@
 - 🚀 Interested in Open Source Technology
 - 📚 Always improving my coding skills
 ---
-💼 Working Experience
+💼 Working Experience 
+🌐 On -call Network Management
+- Assisting in basic network setup and configuration.
+- Troubleshooting internet connectivity and network-related issues.
+- Managing routers, LAN connections, and basic network security practices.
+- Monitoring network performance and ensuring stable connections.
 
+🛠️ On-Call Computer Technician
+- Providing technical support for hardware and software issues.
+- Installing operating systems, drivers, and essential applications.
+- Diagnosing and repairing computer problems.
+- Performing maintenance such as cleaning, upgrades, and system optimization
 ---
+📚 Academic Projects
+PUP Maragondon Brach E-Clearance
+- Built responsive web pages using HTML and CSS.
+- Designed database structure using phpmyadmin
+--- 
 <div align="center">
 
 ### 📱 Connect with Me
