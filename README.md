@@ -1,4 +1,4 @@
-<img width="474" height="354" alt="image" src="https://github.com/user-attachments/assets/0bb3cb84-9c7e-459f-aa78-fcb32ba56d1f" /><div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=Add8e6&center=true&vCenter=true&width=500&lines=Wellcome!;To+My+Github;I+am+Teddy" />
 </div>
 
