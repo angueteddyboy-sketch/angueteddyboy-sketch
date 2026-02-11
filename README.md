@@ -21,7 +21,7 @@
 ## 📊 Project: Setup Tabulation for Mr. and Ms. Competition
 
 This project focuses on creating an efficient tabulation system for a **Mr. and Ms. Competition** using Microsoft Excel and network-based collaboration.
-
+> ⚠️ This project is developed exclusively for **STI College Rosario**.
 ### 🎯 Objectives
 - Create an automated tabulation sheet using Excel
 - Compute scores accurately and quickly
