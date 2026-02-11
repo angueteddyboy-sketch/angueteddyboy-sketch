@@ -1,3 +1,35 @@
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📦 Left Box
+
+👉 Add your details here:
+
+- Name:
+- Course:
+- Skills:
+- Experience:
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛠️ Right Box
+
+👉 Add project info here:
+
+- Project Name:
+- Description:
+- Tools Used:
+- Status:
+
+</td>
+
+</tr>
+</table>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=Add8e6&center=true&vCenter=true&width=500&lines=Welcome!;To+My+Github;I+am+Teddy" />
 </div>
