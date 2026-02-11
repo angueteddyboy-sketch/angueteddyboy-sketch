@@ -45,7 +45,15 @@ This project focuses on creating an efficient tabulation system for a **Mr. and 
 - Spreadsheet automation
 - Network collaboration
 - Problem solving
-
+---
+### 🎨 Graphic Designer
+- Experienced in Adobe Photoshop,
+- including: 
+- 🪧 Yarpaulin layout design
+- 🧩 Logo creation
+- 🖼️ Image editing
+- ✨ graphic composition 
+--- 
 🌐 On-Call Network Management
 - Assisting in basic network setup and configuration.
 - Troubleshooting internet connectivity and network-related issues.
@@ -62,12 +70,13 @@ This project focuses on creating an efficient tabulation system for a **Mr. and 
 PUP Maragondon Branch E-Clearance
 - Built responsive web pages using HTML and CSS.
 - Designed database structure using phpmyadmin
-  
+--- 
 🖥️ Online Book Seller Application (Desktop Application)
 - Developed a desktop-based application using Visual Studio.
 - Designed system for managing book listings, orders, and basic user interactions.
 - Currently No database Applied 
 --- 
+
 
 <div align="center">
 
