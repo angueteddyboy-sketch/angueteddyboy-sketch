@@ -1,4 +1,4 @@
-<div align="center">
+<img width="474" height="354" alt="image" src="https://github.com/user-attachments/assets/0bb3cb84-9c7e-459f-aa78-fcb32ba56d1f" /><div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&pause=1000&color=Add8e6&center=true&vCenter=true&width=500&lines=Wellcome!;To+My+Github;I+am+Teddy" />
 </div>
 
@@ -15,7 +15,9 @@
 - 💻 Learning HTML, CSS, SQL, and Web Systems
 - 🚀 Interested in Open Source Technology
 - 📚 Always improving my coding skills
-
+---
+💼 Working Experience
+- <img width="474" height="354" alt="image" src="https://github.com/user-attachments/assets/5f6b8052-82e1-4984-b07c-b9831b40e58e" />Smart Communications, Inc.
 ---
 <div align="center">
 
