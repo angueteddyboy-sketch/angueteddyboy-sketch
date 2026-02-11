@@ -46,7 +46,7 @@ This project focuses on creating an efficient tabulation system for a **Mr. and 
 - Network collaboration
 - Problem solving
 
-🌐 On -call Network Management
+🌐 On-Call Network Management
 - Assisting in basic network setup and configuration.
 - Troubleshooting internet connectivity and network-related issues.
 - Managing routers, LAN connections, and basic network security practices.
@@ -59,7 +59,7 @@ This project focuses on creating an efficient tabulation system for a **Mr. and 
 - Performing maintenance such as cleaning, upgrades, and system optimization
 ---
 📚 Academic Projects
-PUP Maragondon Brach E-Clearance
+PUP Maragondon Branch E-Clearance
 - Built responsive web pages using HTML and CSS.
 - Designed database structure using phpmyadmin
   
